@@ -1,2 +1,3 @@
 ceci est un fichier qui explique la raison principale de mon apprentissage du code
 le code est un outil professionnel indispensable pour travailler dans le milieu du digital
+Mais il y a aussi des raisons secondaires
